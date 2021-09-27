@@ -43,9 +43,7 @@ export class Validation extends Component {
                     let flag = false;
                     let flag2 = false;
                     if(data !== null && data.length >= 8) {
-                        console.log(parseInt(data[0]));
                         for(let loop = 0; loop < (data.length - 2); loop++) {
-                            console.log(data[loop]);
                             if(data[loop] !== NaN) {
                                flag = (parseInt(data[loop]) === parseInt(data[loop + 1] - 1)) ? 
                                true : false;
