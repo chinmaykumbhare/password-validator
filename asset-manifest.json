@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/password-validator/static/css/main.a7cfe540.chunk.css",
+    "main.js": "/password-validator/static/js/main.d69dab7e.chunk.js",
+    "main.js.map": "/password-validator/static/js/main.d69dab7e.chunk.js.map",
+    "runtime-main.js": "/password-validator/static/js/runtime-main.9316b5c4.js",
+    "runtime-main.js.map": "/password-validator/static/js/runtime-main.9316b5c4.js.map",
+    "static/js/2.99ddc942.chunk.js": "/password-validator/static/js/2.99ddc942.chunk.js",
+    "static/js/2.99ddc942.chunk.js.map": "/password-validator/static/js/2.99ddc942.chunk.js.map",
+    "static/js/3.3623bd09.chunk.js": "/password-validator/static/js/3.3623bd09.chunk.js",
+    "static/js/3.3623bd09.chunk.js.map": "/password-validator/static/js/3.3623bd09.chunk.js.map",
+    "index.html": "/password-validator/index.html",
+    "static/css/main.a7cfe540.chunk.css.map": "/password-validator/static/css/main.a7cfe540.chunk.css.map",
+    "static/js/2.99ddc942.chunk.js.LICENSE.txt": "/password-validator/static/js/2.99ddc942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9316b5c4.js",
+    "static/js/2.99ddc942.chunk.js",
+    "static/css/main.a7cfe540.chunk.css",
+    "static/js/main.d69dab7e.chunk.js"
+  ]
+}
